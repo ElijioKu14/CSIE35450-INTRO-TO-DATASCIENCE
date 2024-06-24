@@ -1,4 +1,4 @@
-Python codes which showcaes the knowledge of some data science techniques and tools specifically webcrawling and webscaping.
+Python codes which showcases the knowledge of some data science techniques and tools specifically webcrawling and webscaping.
 
 Some libraries that were used:
 1. BeautifySoup
